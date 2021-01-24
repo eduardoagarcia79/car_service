@@ -1,0 +1,25 @@
+.container {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+[class*="row"] {
+    /* background-color: #33b5e5; */
+}
+[class*="col"] {
+    padding: 1rem;
+    /* background-color: #33b5e5; */
+    /* border: 2px solid #fff; */
+    color: #fff;
+    text-align: center;
+}
+.btn-register {
+    margin-top: 30px;
+}
+.btn-continue {
+    margin-top: 20px;
+}
+.last_service {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
